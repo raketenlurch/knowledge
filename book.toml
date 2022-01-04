@@ -1,0 +1,6 @@
+[book]
+authors = ["raketenlurch"]
+language = "en"
+multilingual = false
+src = "src"
+title = "knowledge-database"
