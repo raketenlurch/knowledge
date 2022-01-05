@@ -1,3 +1,4 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Rust](./Programmiersprachen/Rust/Rust_Overview.md)
+    - [Snippets](./Programmiersprachen/Rust/Snippets_Rust.md)

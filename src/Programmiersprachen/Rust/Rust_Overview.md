@@ -1,0 +1,2 @@
+# Rust
+All things Rust.
